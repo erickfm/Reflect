@@ -5,7 +5,7 @@ import os
 
 os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
-st.set_page_config(page_title='Reflect', page_icon="🪞", layout="centered", initial_sidebar_state='collapsed')
+st.set_page_config(page_title='Reflect', page_icon="⚫️", layout="centered", initial_sidebar_state='collapsed')
 st.markdown(f'''
     <style>
         section[data-testid="stSidebar"] .css-ng1t4o {{width: 14rem;}}
