@@ -24,7 +24,7 @@ if main_page:
     cola.markdown(
         f"""<a target="_self" href="{'https://reflect.streamlit.app/'}"><img src="{reflect_image_path}" style="display:block;" width="100%" height="100%"></a>""",
         unsafe_allow_html=1)
-    colb.markdown('# Reflect \nAn AI group for prompt engineering')
+    colb.markdown('# Reflect \nAn autonomous AI group for prompt engineering')
 
 
 if about_page:

@@ -2,7 +2,7 @@
 ![image](https://raw.githubusercontent.com/erickfm/Reflect/main/images/Reflect.png)
 # Reflect
 
-An AI group for prompt engineering - https://reflect.streamlit.app/
+An autonomous AI group for prompt engineering - https://reflect.streamlit.app/
 
 ---
 
